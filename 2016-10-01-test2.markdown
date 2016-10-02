@@ -1,0 +1,8 @@
+---
+layout: links
+permalink: /:title
+forward_to: http://test.com
+author: test@tufts.edu
+hidden: false
+project: false
+---
