@@ -1,0 +1,9 @@
+---
+layout: links
+permalink: /:title
+forward_to: http://go.tufts.io
+author: team@tufts.io
+hidden: false
+project: false
+description: "description here"
+---
